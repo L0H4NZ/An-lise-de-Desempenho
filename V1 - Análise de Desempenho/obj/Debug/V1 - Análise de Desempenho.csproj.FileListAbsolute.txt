@@ -1,0 +1,10 @@
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\bin\Debug\V1 - Análise de Desempenho.exe.config
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\bin\Debug\V1 - Análise de Desempenho.exe
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\bin\Debug\V1 - Análise de Desempenho.pdb
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\obj\Debug\V1 - Análise de Desempenho.csprojAssemblyReference.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\obj\Debug\V1___Análise_de_Desempenho.Form1.resources
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\obj\Debug\V1___Análise_de_Desempenho.Properties.Resources.resources
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\obj\Debug\V1 - Análise de Desempenho.csproj.GenerateResource.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\obj\Debug\V1 - Análise de Desempenho.csproj.CoreCompileInputs.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\obj\Debug\V1 - Análise de Desempenho.exe
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\6º Período\Análise de Desempenho\V1 - Análise de Desempenho\V1 - Análise de Desempenho\obj\Debug\V1 - Análise de Desempenho.pdb
